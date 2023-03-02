@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Smit Vasoya</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate Android Developer from India And also Khown as C, C++, Java, Kotlin, PHP.</h3>
+
 
 <img align="right" alt="coding" width="350" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
